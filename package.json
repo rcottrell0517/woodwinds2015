@@ -4,7 +4,7 @@
   "description": "Property website",
   "main": "main.faaf51f9.js",
   "scripts": {
-    "build": "browserify main.faaf51f9.js > bundle.js"
+    "build": "browserify main.faaf51f9.js > bundle.js && live-server"
   },
   "repository": {
     "type": "git",
