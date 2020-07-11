@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/rcottrell0517/woodwinds2015/issues"
   },
-  "homepage": "https://github.com/rcottrell0517/woodwinds2015#readme"
+  "homepage": "https://github.com/rcottrell0517/woodwinds2015#readme",
+  "dependencies": {
+    "lodash": "^4.17.19"
+  }
 }
