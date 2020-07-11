@@ -1,0 +1,19 @@
+{
+  "name": "woodwinds2015",
+  "version": "1.0.0",
+  "description": "Property website",
+  "main": "main.faaf51f9.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rcottrell0517/woodwinds2015.git"
+  },
+  "author": "Robert Cottrell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rcottrell0517/woodwinds2015/issues"
+  },
+  "homepage": "https://github.com/rcottrell0517/woodwinds2015#readme"
+}
