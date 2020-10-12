@@ -1,0 +1,22 @@
+{
+  "name": "woodwinds2015",
+  "version": "1.0.0",
+  "description": "Property website",
+  "main": "main.faaf51f9.js",
+  "scripts": {
+    "build": "browserify main.faaf51f9.js > bundle.js && live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rcottrell0517/woodwinds2015.git"
+  },
+  "author": "Robert Cottrell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rcottrell0517/woodwinds2015/issues"
+  },
+  "homepage": "https://github.com/rcottrell0517/woodwinds2015#readme",
+  "dependencies": {
+    "lodash": "^4.17.19"
+  }
+}
